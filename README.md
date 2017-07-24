@@ -9,4 +9,4 @@ You will need:
 To run, just run `cargo run --release` in the project root. The `release` flag is suggested to improve the speed of the program, which in turn improves the performance of the AI.
 
 # Configuration
-Currently, there is no configuration file (I plan to add this at some point in the future). If you want to adjust the lenght of time given to the AI, modify the `AI_TURN_TIME` constant in `src/main.rs`. The `HUMAN_PLAYER` constant can also be set to `false` to make the AI play against itself.
+Currently, there is no configuration file (I plan to add this at some point in the future). If you want to adjust the length of time given to the AI, modify the `AI_TURN_TIME` constant in `src/main.rs`. The `HUMAN_PLAYER` constant can also be set to `false` to make the AI play against itself.
